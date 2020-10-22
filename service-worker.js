@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bibooking-react-pages/precache-manifest.21ae35a57fc4b547d4277bf2b4fc10ec.js"
+  "/bibooking-react-pages/precache-manifest.27ad5400e7e9a9f8540a2a59c8df3e69.js"
 );
 
 self.addEventListener('message', (event) => {
