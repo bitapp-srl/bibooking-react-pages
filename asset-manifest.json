@@ -1,22 +1,28 @@
 {
   "files": {
     "main.css": "/bibooking-react-pages/static/css/main.d3885f63.chunk.css",
-    "main.js": "/bibooking-react-pages/static/js/main.86d6c500.chunk.js",
-    "main.js.map": "/bibooking-react-pages/static/js/main.86d6c500.chunk.js.map",
+    "main.js": "/bibooking-react-pages/static/js/main.ed6e4081.chunk.js",
+    "main.js.map": "/bibooking-react-pages/static/js/main.ed6e4081.chunk.js.map",
     "runtime-main.js": "/bibooking-react-pages/static/js/runtime-main.15f7f0d4.js",
     "runtime-main.js.map": "/bibooking-react-pages/static/js/runtime-main.15f7f0d4.js.map",
-    "static/js/2.851d90d9.chunk.js": "/bibooking-react-pages/static/js/2.851d90d9.chunk.js",
-    "static/js/2.851d90d9.chunk.js.map": "/bibooking-react-pages/static/js/2.851d90d9.chunk.js.map",
+    "static/css/2.27f5cf05.chunk.css": "/bibooking-react-pages/static/css/2.27f5cf05.chunk.css",
+    "static/js/2.e17c165e.chunk.js": "/bibooking-react-pages/static/js/2.e17c165e.chunk.js",
+    "static/js/2.e17c165e.chunk.js.map": "/bibooking-react-pages/static/js/2.e17c165e.chunk.js.map",
     "index.html": "/bibooking-react-pages/index.html",
-    "precache-manifest.27ad5400e7e9a9f8540a2a59c8df3e69.js": "/bibooking-react-pages/precache-manifest.27ad5400e7e9a9f8540a2a59c8df3e69.js",
+    "precache-manifest.522450c43c2bcfb8409bf67f034f4c2b.js": "/bibooking-react-pages/precache-manifest.522450c43c2bcfb8409bf67f034f4c2b.js",
     "service-worker.js": "/bibooking-react-pages/service-worker.js",
+    "static/css/2.27f5cf05.chunk.css.map": "/bibooking-react-pages/static/css/2.27f5cf05.chunk.css.map",
     "static/css/main.d3885f63.chunk.css.map": "/bibooking-react-pages/static/css/main.d3885f63.chunk.css.map",
-    "static/js/2.851d90d9.chunk.js.LICENSE.txt": "/bibooking-react-pages/static/js/2.851d90d9.chunk.js.LICENSE.txt"
+    "static/js/2.e17c165e.chunk.js.LICENSE.txt": "/bibooking-react-pages/static/js/2.e17c165e.chunk.js.LICENSE.txt",
+    "static/media/ChevronLeft.f3a380db.svg": "/bibooking-react-pages/static/media/ChevronLeft.f3a380db.svg",
+    "static/media/ChevronRight.0152ed08.svg": "/bibooking-react-pages/static/media/ChevronRight.0152ed08.svg",
+    "static/media/User.18fb871e.svg": "/bibooking-react-pages/static/media/User.18fb871e.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.15f7f0d4.js",
-    "static/js/2.851d90d9.chunk.js",
+    "static/css/2.27f5cf05.chunk.css",
+    "static/js/2.e17c165e.chunk.js",
     "static/css/main.d3885f63.chunk.css",
-    "static/js/main.86d6c500.chunk.js"
+    "static/js/main.ed6e4081.chunk.js"
   ]
 }
